@@ -54,7 +54,7 @@ Softuri folosite
 ========================================
 
 * [Artix Linux](https://artixlinux.org/)
-* [vim](https://www.vim.org)
+* [vim](http://www.vim.org)
 * [Sql Workbench/j](http://www.sql-workbench.net/)
 * [StarDict editor](https://aur.archlinux.org/packages/stardict-tools/)
 * `dictd` (din pachetele `Artix Linux`).
